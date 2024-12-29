@@ -15,8 +15,12 @@ Bu programda sınıf mevcudunu kullanıcıdan alıp sınıftaki öğrencilerin n
 İçindeki İçerikler:
 
 -if-else
+
 -for
+
 -Arrays(Diziler)
+
 -Karakter Dizileri
+
 
 
