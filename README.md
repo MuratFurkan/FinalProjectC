@@ -8,5 +8,15 @@ Kod Ekranı:
 
 ![output](https://github.com/user-attachments/assets/17587f9d-898b-44ea-aa78-e7ba5873d9f8)
 
+Program hakkında:
+
+Bu programda sınıf mevcudunu kullanıcıdan alıp sınıftaki öğrencilerin notlarını isimleri ile birlikte girip sınıf not ortalamasını hesaplayan ve en yüksek, düşük not alan öğrencilerin notları ve isimleri ile veren programı yazdım.
+
+İçindeki İçerikler:
+
+-if-else
+-for
+-Arrays(Diziler)
+-Karakter Dizileri
 
 
